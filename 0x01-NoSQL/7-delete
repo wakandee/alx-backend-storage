@@ -1,0 +1,2 @@
+// delete all documents by a match
+db.school.delete{{name="Holberton school"}}
